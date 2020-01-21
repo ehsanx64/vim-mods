@@ -1,8 +1,15 @@
 # vim-mods
 ViM configuration, plugin set and other goodies
 
-## gvimrc
-This is gvim configuration file. It should be renamed to .gvimrc and placed in ~ directory.
+## Introduction
 
-## vim
-This folder contains ViM user-specific folder (~/.vim).
+This repository contains my selection of ViM plugins, colorscheme and other good stuff.
+
+## Repository Contents
+
+There are some files and folders inside this repository which include:
+
+### seed
+
+All stuff which are not checked and organized go into this directory.
+
